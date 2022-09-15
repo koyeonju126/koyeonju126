@@ -1,4 +1,1 @@
-# backjoon_yeonju
-# koyeonju126
-# koyeonju126
-# koyeonju126
+# 안녕하세요. 소프트웨어학부 21학번 고연주입니다.
